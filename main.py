@@ -1,4 +1,3 @@
-# THIS ENTIRE FILE DECIDES THE AMOUNT OF BEATS THEN CALCULATES THE AMOUNT OF MEASURES.
 import random
 import math
 # Select a random amount of beats.
